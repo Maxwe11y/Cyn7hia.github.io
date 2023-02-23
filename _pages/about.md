@@ -28,5 +28,6 @@ What I did in research during PhD study:
     <li></li>
     <li></li>
   </ul>
-![pic_1](/assets/img/picture1.pdf)
-![pic_2](/assets/img/picture2.pdf)
+  
+![pic1](/assets/img/picture1.pdf)
+![pic2](/assets/img/picture2.pdf)
