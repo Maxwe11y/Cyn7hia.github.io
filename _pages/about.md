@@ -9,7 +9,7 @@ profile:
   image: WechatIMG138.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p><luyao001@e.ntu.edu.sg></p>
+    <p>luyao001@e.ntu.edu.sg</p>
     <p>Nanyang Technological University</p>
 
 news: true  # includes a list of news items
@@ -17,6 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+Hi, I am Luyao ZHU, a 4-th year PhD candidate at School of Computer Science and Engineering, Nanyang Technological University, under the supervision of Dr. Erik Cambria. I obtained my M.S. in management science and engineering from the University of Chinese Academy of Sciences in 2019. Before that, I received my B.Sc. in Mathematics and Applied Mathematics and B.Ec. in Econimics from China University of Political Science and Law in 2016. 
+
+I am always ready to explore the 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
