@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our paper SKIER: A Symbolic Knowledge Integrated Model for Conversational Emotion Recognition gets accepted in AAAI 2023!
+title: Our paper SKIER A Symbolic Knowledge Integrated Model for Conversational Emotion Recognition gets accepted in AAAI 2023!
 date: 2023-02-07 16:11:00-0400
 inline: false
 ---
