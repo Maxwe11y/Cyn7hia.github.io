@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our paper SentiVec Learning Sentiment-Context Vector via Kernel Optimization Function for Sentiment Analysis gets published in IEEE TNNLS!
-date: 2020-07 16:11:00-0400
+date: 2020-07-18 16:11:00-0400
 inline: false
 ---
 
