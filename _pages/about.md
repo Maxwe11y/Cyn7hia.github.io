@@ -25,9 +25,7 @@ The multiple education backgrounds in different majors enable me to quickly adap
   
 What I did in research during PhD study:
   <ul>
-    <li></li>I proposed to detect the interlocutor intent for open-domain conversation and train the intent detector via semi-supervised learning.
-    <li></li>I developed a persona-based dialouge system for chit-chat, enabling the chatbot to generate more persona-consistent and contextual coherent responses.![pic2](/assets/img/picture2.pdf)
+    <li>I proposed to detect the interlocutor intent for open-domain conversation and train the intent detector via semi-supervised learning.</li>
+    <li>I developed a persona-based dialouge system for chit-chat, enabling the chatbot to generate more persona-consistent and contextual coherent responses.</li> ![pic2](/assets/img/picture2.pdf)
   </ul>
-  
-#![pic1](/assets/img/picture1.pdf)
 
