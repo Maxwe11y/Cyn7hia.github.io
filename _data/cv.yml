@@ -25,22 +25,20 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Agency for Science, Technology and Research, Singapore
+      year: 2020 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Human-Robot Collaborative AI for Advanced Manufacturing and Engineering (AME) WP4 Commonsense Knowledge
+        - description:
+          - Support in annotate 800+ hierarchical verb priment keys
+          -	Support in collecting 900+ hierarchical noun primenet keys
+          -	Primitive Labeling and semi-supervised algorithm programming on common sense knowledge
+    - title: Research Assistant
+      institution: Key Laboratory of Big Data Mining and Knowledge Management, Chinese Academy of Sciences, Beijing, China
+      year: 2017-2019
       description:
-        - Description 1.
-        - Description 2.
+        - Assist professors in concluding report of the research project supported by the National Natural Science Foundation of China No. 91546201, No. 71331005 and No.71110107026 related to Data Ming and Machine Learning
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
