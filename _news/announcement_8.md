@@ -12,4 +12,4 @@ SentiVec is aimed at:
   <li> propagating and updating the semantic information to all the word representations in a corpus.</li>
 </ul>
 
-For more detailed information, please visist [SentiVec: Learning Sentiment-Context Vector via Kernel Optimization Function for Sentiment Analysis]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vANgO5cAAAAJ&citation_for_view=vANgO5cAAAAJ:WF5omc3nYNoC](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vANgO5cAAAAJ&sortby=pubdate&citation_for_view=vANgO5cAAAAJ:Tyk-4Ss8FVU)
+For more detailed information, please visist [SentiVec: Learning Sentiment-Context Vector via Kernel Optimization Function for Sentiment Analysis](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=vANgO5cAAAAJ&sortby=pubdate&citation_for_view=vANgO5cAAAAJ:Tyk-4Ss8FVUC)
