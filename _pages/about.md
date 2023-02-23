@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Life was like a box of chocolates. You never know what you're gonna get.
-***
+subtitle: <a href='#'>Life</a> was like a box of chocolates. You never know what you're gonna get.
+
 profile:
-  align: right
+  align: left
   image: WechatIMG138.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>luyao001@e.ntu.edu.sg</p>
-    <a href='#'>Nanyang Technological University</a>.
+    <p>luyao001@eDOTntuDOTeduDOTsg</p>
+    <p>Nanyang Technological University</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
