@@ -22,5 +22,11 @@ Hi, I am Luyao ZHU, a 4-th year PhD candidate at School of Computer Science and 
 The multiple education backgrounds in different majors enable me to quickly adapt to a new domain. I am always ready to take on challenges, advancing the frontiers of knowlege and research. My research interests include: **semi-supervised learning**, **hard negative sampling**, **persona attribute extraction**, and **persona-based dialogue generation**. For more information, please click [publications](/publications/). During my spare time, I like drawing and cooking.
 
 <a href='#'> I am on the job market now!<a> Please feel free to drop me an email if you are interested. Thank you. :blush:
-![pic_1](/assests/img/picture1.pdf)
-![pic_2](/assects/img/picture2.pdf)
+  
+What I did in research during PhD study:
+  <ul>
+    <li></li>
+    <li></li>
+  </ul>
+![pic_1](/assets/img/picture1.pdf)
+![pic_2](/assets/img/picture2.pdf)
