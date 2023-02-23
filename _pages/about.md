@@ -23,7 +23,7 @@ The multiple education backgrounds in different majors enable me to quickly adap
 
 <a href='#'> I am on the job market now!<a> Please feel free to drop me an email if you are interested. Thank you. :blush:
   
-What I did in research during PhD study: <img align="right" src=/assets/img/picture2.pdf/>
+What I did in research during PhD study: <img align="right" src="/assets/img/picture2.pdf"/>
   <ul>
     <li>I proposed to detect the interlocutor intent for open-domain conversation and train the intent detector via semi-supervised learning.</li>
     <li>I developed a persona-based dialouge system for chit-chat, enabling the chatbot to generate more persona-consistent and contextual coherent responses.</li>
