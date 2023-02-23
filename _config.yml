@@ -254,7 +254,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Zhu]
+  last_name: [Zhu, Zhu*]
   first_name: [Luyao, L.]
 
   style: apa
