@@ -45,23 +45,30 @@
       institution: Computational Intelligence Lab, School of Computer Science and Engineering, Nanyang Technological University, Singapore
       year: 2018
       description:
+        - Stock trading rule discovery with double deep Q-network。
+        - Tourism reviews sentiment analysis。
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Data Mining Internship
+      institution: Key Laboratory of Big Data Mining and Knowledge Management, Chinese Academy of Sciences, Beijing, China
+      year: 2015 - 2016
       description:
+        - Assist in application and research of the research project in terms of tourism online travel user reviews, electric-power industry, spallation neutron source, etc.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
+    - title: Lab session: Data Structure and Algorithm
+      year: 2021
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
+      
+    - title: Lab session: Artificial Intelligence
+      year: 2020
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    
+    - title: Lab session: Introduction to Data Science and Artificial Intelligence
+      year: 2020
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      
 - title: Honors and Awards
   type: time_table
   contents:
