@@ -61,9 +61,9 @@
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: (Lab session) Data Structure and Algorithm
+    - title: (Lab session) Algorithm Design and Analysis
       year: 2021
-      description: Mentoring undergraduate students in Lab class and quiz session relevant to statistics, linear regression, classification trees, clustering algorithms, etc.
+      description: Mentoring undergraduate students in Lab class and quiz session relevant to sorting, graphs, dynamic programming, etc.
       
     - title: (Lab session) Artificial Intelligence
       year: 2020
@@ -71,7 +71,7 @@
     
     - title: (Lab session) Introduction to Data Science and Artificial Intelligence
       year: 2020
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      description: Mentoring undergraduate students in Lab class and quiz session relevant to statistics, linear regression, classification trees, clustering algorithms, etc.
       
 - title: Honors and Awards
   type: time_table
