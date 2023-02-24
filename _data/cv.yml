@@ -57,15 +57,15 @@
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: [Lab session] Data Structure and Algorithm
+    - title: (Lab session) Data Structure and Algorithm
       year: 2021
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
       
-    - title: [Lab session] Artificial Intelligence
+    - title: (Lab session) Artificial Intelligence
       year: 2020
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
     
-    - title: [Lab session] Introduction to Data Science and Artificial Intelligence
+    - title: (Lab session) Introduction to Data Science and Artificial Intelligence
       year: 2020
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
       
