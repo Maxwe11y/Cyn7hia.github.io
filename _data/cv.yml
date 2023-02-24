@@ -31,9 +31,9 @@
       description:
         - title: Human-Robot Collaborative AI for Advanced Manufacturing and Engineering (AME) WP4 Commonsense Knowledge
           contents:
-          - Support in annotate 800+ hierarchical verb priment keys
-          -	Support in collecting 900+ hierarchical noun primenet keys
-          -	Primitive Labeling and semi-supervised algorithm programming on common sense knowledge
+            - Support in annotate 800+ hierarchical verb priment keys
+            -	Support in collecting 900+ hierarchical noun primenet keys
+            -	Primitive Labeling and semi-supervised algorithm programming on common sense knowledge
           
     - title: Research Assistant
       institution: Key Laboratory of Big Data Mining and Knowledge Management, Chinese Academy of Sciences, Beijing, China
