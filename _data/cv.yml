@@ -23,7 +23,7 @@
       institution: China University of Political Science and Law, Beijing, China
       year: 2016
       description:
-        - Graduated Magna Cum Laude with a GPA of 88.92 on a 100 scale 
+        - Outstanding graduate with a GPA of 88.92 on a 100 scale 
         - Rank 4/50, Overall GPA 88.92/100, Major GPA 89.1/100.
 
 - title: Experience
@@ -49,8 +49,8 @@
       institution: Computational Intelligence Lab, School of Computer Science and Engineering, Nanyang Technological University, Singapore
       year: 2018
       description:
-        - Stock trading rule discovery with double deep Q-network。
-        - Tourism reviews sentiment analysis。
+        - Stock trading rule discovery with double deep Q-network.
+        - Tourism reviews sentiment analysis.
 
     - title: Data Mining Internship
       institution: Key Laboratory of Big Data Mining and Knowledge Management, Chinese Academy of Sciences, Beijing, China
