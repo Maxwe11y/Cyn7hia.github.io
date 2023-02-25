@@ -76,13 +76,34 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - year: 2018
+      items:
+        - Academic Scholarship of the University Chinese Academy of Sciences
+        - Excellent Student Award of the University Chinese Academy of Sciences
+    - year: 2017
+      items:
+        - Academic Scholarship of the University Chinese Academy of Sciences
+        - Best Paper Award in ITQM 2017
+    - year: 2016
+      items:
+        - Academic Scholarship of the University Chinese Academy of Sciences
+        - The Chinese Academy of Sciences Excellent Undergraduate Scholarship
+        - Outstanding Graduate
+    - year: 2015
+      items:
+        - The Chinese Academy of Sciences Excellent Undergraduate Scholarship
+        - Team Competitin Winning Prize
+        - The Third Grade Scholarship of China University of Political Science and Law
+        - Meritorious Winner of Mathematical Contest in Modeling(MCM)
+    - year: 2014
+      items:
+        - The Chinese Academy of Sciences Excellent Undergraduate Scholarship
+        - The Second Grade Scholarship of China University of Political Science and Law
+        - The 2nd-national level in CUMCM-2014 for college students
+    - year: 2013
+      items:
+        - The Second Grade Scholarship of China University of Political Science and Law
+        - Excellent Student Award of China University of Political Science and Law
 
 - title: Services
   type: nested_list
