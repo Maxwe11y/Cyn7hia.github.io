@@ -9,7 +9,7 @@ profile:
   image: WechatIMG138.png
   image_circular: false # crops the image to make it circular
   address: >
-    [<p>luyao001@e.ntu.edu.sg</p>](mailto:luyao001@e.ntu.edu.sg)
+    <p>[luyao001@e.ntu.edu.sg](mailto:luyao001@e.ntu.edu.sg)</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
